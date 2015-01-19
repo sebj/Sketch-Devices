@@ -1,8 +1,6 @@
 ##About
 
-A few devices in [Sketch](http://bohemiancoding.com/sketch/) format.
-
-[![Gittip](http://img.shields.io/gratipay/sebj.svg)](https://gratipay.com/sebj/)
+A few devices for [Sketch](http://bohemiancoding.com/sketch/).
 
 ##License
 
