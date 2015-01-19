@@ -1,6 +1,6 @@
 ##About
 
-A few devices for [Sketch](http://bohemiancoding.com/sketch/).
+A couple of devices recreated in [Sketch](http://bohemiancoding.com/sketch/).
 
 ##License
 
